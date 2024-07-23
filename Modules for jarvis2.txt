@@ -1,0 +1,10 @@
+warnings 
+pyttsx3
+SpeechRecognition 
+gTTS
+playsound
+os 
+datetime
+calendar
+random
+wikipedia
